@@ -7,8 +7,8 @@
 "Json_popup_Wait" : "Server Ready . . . ",
 
 
-"MODE_NO_ADS" : true,
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
 // mode pengaturan iklan
@@ -33,7 +33,7 @@
 "Enable_Sticky_Notification" : false,
 
 
-"STARAPPID" : "207474123",
+"STARAPPID" : "208459303",
 
 "ADMOB_BANNER" : "ca-app-pub-1977787218198319/6752186971",
 "ADMOB_INTER" : "",
